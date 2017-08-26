@@ -50,4 +50,5 @@ Answer: 51.20 EUR
 
 ## Resources
 - [Original Kata Description](http://codingdojo.org/kata/Potter/)
+- [TDD Kata Seed Java](https://github.com/paucls/java-gradle-kata-seed)
 - [TDD Kata Seed TypeScript](https://github.com/paucls/typescript-mocha-kata-seed)
