@@ -1,6 +1,6 @@
 # Potter-Kata
 
-##Problem Description
+## Problem Description
 
 To try and encourage more sales of the 5 different Harry
 Potter books they sell, a bookshop has decided to offer
@@ -49,4 +49,5 @@ Answer: 51.20 EUR
 |  2  |  2   |  2  |  1   |  1  | 4 * 8 * 0.8 + 4 * 8 * 0.8 |  51.20  |
 
 ## Resources
-- [Original Source](http://codingdojo.org/kata/Potter/)
+- [Original Kata Description](http://codingdojo.org/kata/Potter/)
+- [TDD Kata Seed TypeScript](https://github.com/paucls/typescript-mocha-kata-seed)
